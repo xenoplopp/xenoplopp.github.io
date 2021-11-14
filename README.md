@@ -1,3 +1,3 @@
 # xPlopBot
-commands site
+commands site,
 more coming soon...
