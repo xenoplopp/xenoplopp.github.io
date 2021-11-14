@@ -1,2 +1,3 @@
-# xplop.github.io
-testing something
+# xPlopBot
+commands site
+more coming soon...
